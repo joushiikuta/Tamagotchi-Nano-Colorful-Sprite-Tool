@@ -2,6 +2,8 @@
 
 Extract and reimport sprites for Tamagotchi Nano Colorful using Python.
 
+https://www.youtube.com/watch?v=TEO4JL5waGo
+
 ## Usage
 
 ### Export sprites
